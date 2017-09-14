@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeixiaoDebuger</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chooser_title" >Share</string>
+    <string name="scan" >Scan</string>
+    <string name="weixiao_gate">Input your weixiao campus card gate way code</string>
+    <string name="clear">Clear</string>
+    <string name="httpget">Http Get</string>
+</resources>

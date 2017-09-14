@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">微校测试工具</string>
+    <string name="edit_message">输入文字</string>
+    <string name="button_send">发送</string>
+
+    <string name="hello_blank_fragment">你好，空白片段</string>
+    <string name="chooser_title">分享</string>
+    <string name="scan" >扫描</string>
+    <string name="weixiao_gate">输入微校门禁的代码</string>
+    <string name="clear">清空</string>
+    <string name="httpget">GET 请求</string>
+</resources>
